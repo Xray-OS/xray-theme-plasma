@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://github.com/Xray-OS/xray_os/blob/main/Xray_OS%20New%20Logo.svg">
+ <img src="https://github.com/Xray-OS/xray_os/blob/main/Xray_OS%20New%20Logo.svg" width="100" height="100">
   <br />
    Xray_OS Theme - rising example for Plasma
 </h1>
