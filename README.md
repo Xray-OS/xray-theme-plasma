@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://github.com/erikdubois/arcolinux-nemesis/blob/master/Personal/settings/arcolinuxws.png">
+ <img src="https://github.com/Xray-OS/xray_os/blob/main/Xray_OS%20New%20Logo.svg">
   <br />
    Xray_OS Theme - rising example for Plasma
 </h1>
