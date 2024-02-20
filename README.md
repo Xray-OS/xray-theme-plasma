@@ -11,4 +11,4 @@
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/Xray-OS?style=flat">&nbsp;&nbsp;<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Xray-OS/xray-theme-plasma">&nbsp;&nbsp;<img alt="GitHub forks" src="https://img.shields.io/github/forks/Xray-OS/xray-theme-plasma">
 
-<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCsAWe_XXxesY4p25SJ_GGeg">&nbsp;&nbsp;<img alt="YouTube Channel Views" src="https://img.shields.io/youtube.com/channel/UCsAWe_XXxesY4p25SJ_GGeg">
+<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCsAWe_XXxesY4p25SJ_GGeg">&nbsp;&nbsp;<img alt="YouTube Channel Views" src="https://img.shields.io/youtube.com/channel/views/UCsAWe_XXxesY4p25SJ_GGeg">
